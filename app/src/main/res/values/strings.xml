@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Firebase Service Notification</string>
+    <string name="welcome_to_chat_app">Welcome to Chat App !</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="enter_chat_room">Enter chat room</string>
+    <string name="anonymous13">Anonymous13</string>
+    <string name="send">Send</string>
+    <string name="asdsadjsadsadhsadhsafgdfgdfgdfgdfgdfgfdgfdgdfgfdgfdgdfgfddfgfdfdgfdgfhjdsahgdhjsagdjhasdjhgsahjdghjasd">asdsadjsadsadhsadhsafgdfgdfgdfgdfgdfgfdgfdgdfgfdgfdgdfgfddfgfdfdgfdgfhjdsahgdhjsagdjhasdjhgsahjdghjasd</string>
+    <string name="enter_a_message_here">Enter a message here</string>
+    <string name="test">Test</string>
+</resources>
